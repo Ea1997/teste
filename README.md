@@ -2,7 +2,8 @@
  steps to setup project locally:
  
  
-- git clone https://github.com/majdch/smsexpress.git projectName
+
+
 
 - composer install
 
